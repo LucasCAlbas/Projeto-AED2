@@ -12,6 +12,10 @@ Desenvolvido no Curso de Ciência da Computação da PUC Minas Poços de Caldas 
 
 Linguagem utilizada: C, C++.
 
+# Recursos
+
+Raylib, Tiled, Aseprite.
+
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
