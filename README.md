@@ -2,7 +2,7 @@
 
 ## Autor:
 
--Lucas
+Lucas Candido Albino
 
 # Descrição
 
