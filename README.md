@@ -12,6 +12,8 @@ Desenvolvido no Curso de Ciência da Computação da PUC Minas Poços de Caldas 
 
 Linguagem utilizada: C, C++.
 
+Obs: Todos as versões do jogo representam meu progresso diário no desenvolvimento.
+
 # Recursos
 
 Raylib, Tiled, Aseprite.
