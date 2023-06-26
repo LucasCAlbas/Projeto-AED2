@@ -17,6 +17,7 @@ Obs: Todos as versões do jogo representam meu progresso diário no desenvolvime
 # Recursos
 
 Raylib, Tiled, Aseprite.
+CMake
 
 # Código
 
